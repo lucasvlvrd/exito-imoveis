@@ -1,8 +1,5 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Inter } from "next/font/google";
-import Header from "@/components/layout/Header";
-import Footer from "@/components/layout/Footer";
-import CookieConsent from "@/components/ui/CookieConsent";
 import { site, siteUrl } from "@/lib/site";
 import "./globals.css";
 
@@ -84,10 +81,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(realEstateAgentJsonLd) }}
         />
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-        <CookieConsent />
+        {children}
       </body>
     </html>
   );

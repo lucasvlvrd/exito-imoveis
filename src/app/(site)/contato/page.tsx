@@ -13,10 +13,9 @@ export default function ContatoPage() {
     <div className="mx-auto max-w-5xl px-6 py-16 sm:px-10 sm:py-24">
       <Reveal>
         <span className="text-xs tracking-[0.15em] text-muted-foreground">CONTATO</span>
-        <h1 className="mt-3 font-display text-4xl sm:text-5xl">Fale com a gente</h1>
+        <h1 className="mt-3 font-display text-4xl sm:text-5xl">Fale conosco</h1>
         <p className="mt-4 max-w-lg text-sm text-muted-foreground">
-          Conte um pouco sobre o que você procura — comprar, alugar ou anunciar
-          um imóvel — e nossa equipe retorna o quanto antes.
+          Nos diga sua necessidade - comprar, alugar ou anunciar seu imóvel - e nossa equipe lhe contatará o quanto antes.
         </p>
       </Reveal>
 

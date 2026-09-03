@@ -28,10 +28,10 @@ const SERVICOS = [
     cta: { label: "Solicitar avaliação", href: "/contato" },
   },
   {
-    titulo: "Anúncio de imóvel",
+    titulo: "Advocacia",
     texto:
-      "Se você quer vender ou alugar, cuidamos da divulgação e do contato com interessados do início ao fim.",
-    cta: { label: "Anunciar meu imóvel", href: "/contato" },
+      "Contamos com advogado para solucionar problemas jurídicos decorrentes das relações contratuais. Entre em contato e saiba mais.",
+    cta: { label: "Falar com advogado", href: "/contato" },
   },
 ];
 

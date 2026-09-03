@@ -18,7 +18,7 @@ export default function LocalizacaoPage() {
         <span className="text-xs tracking-[0.15em] text-muted-foreground">LOCALIZAÇÃO</span>
         <h1 className="mt-3 font-display text-4xl sm:text-5xl">Onde estamos</h1>
         <p className="mt-4 max-w-lg text-sm text-muted-foreground">
-          Atendimento presencial mediante agendamento prévio pelo telefone ou WhatsApp.
+          Atendimento presencial: seg. a sex, 09h às 17h30.
         </p>
       </Reveal>
 
