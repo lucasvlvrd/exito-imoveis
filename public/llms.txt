@@ -1,0 +1,19 @@
+# Êxito em Imóveis
+
+> Imobiliária em São Paulo (CRECI 59048F) especializada em compra, venda e locação de apartamentos, casas e imóveis comerciais, com atendimento próximo do início ao fim do processo.
+
+## Páginas principais
+
+- [Início](https://www.exitoemimoveis.com.br/): apresentação da imobiliária e imóveis em destaque.
+- [Catálogo](https://www.exitoemimoveis.com.br/catalogo): busca de imóveis à venda e para locação, com filtros por tipo, bairro e quartos.
+- [Serviços](https://www.exitoemimoveis.com.br/servicos): compra, locação, avaliação e anúncio de imóveis.
+- [Sobre](https://www.exitoemimoveis.com.br/sobre): quem é a Êxito em Imóveis.
+- [Localização](https://www.exitoemimoveis.com.br/localizacao): endereço, telefone e WhatsApp do escritório.
+- [Perguntas frequentes](https://www.exitoemimoveis.com.br/perguntas-frequentes): dúvidas comuns sobre comprar e alugar imóveis.
+- [Contato](https://www.exitoemimoveis.com.br/contato): formulário de contato e canais diretos.
+- [Política de privacidade](https://www.exitoemimoveis.com.br/politica-de-privacidade): tratamento de dados pessoais (LGPD).
+
+## Observações
+
+- Conteúdo em português (pt-BR).
+- Cada imóvel do catálogo tem uma página própria em `/imovel/{id}`, listada em `/sitemap.xml`.
